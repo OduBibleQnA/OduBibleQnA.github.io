@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /index.html
+Disallow: /book-abbrs.html
+Disallow: /discord.html
+Disallow: /linktree.html
+Disallow: /spotify-for-before-after-cru.html
+Disallow: /thanks.html
