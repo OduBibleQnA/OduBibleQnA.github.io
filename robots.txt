@@ -1,6 +1,7 @@
 User-agent: *
 Allow: /
 Allow: /index.html
+Allow: /googlefb8d5877d98883fd.html
 Disallow: /book-abbrs.html
 Disallow: /discord.html
 Disallow: /linktree.html
